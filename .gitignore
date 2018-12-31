@@ -1,0 +1,22 @@
+# System
+.DS_Store
+
+# Dependency directory
+node_modules/
+bower_components/
+
+# Build
+/dist
+
+# JS files
+*.js
+
+# lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.swp

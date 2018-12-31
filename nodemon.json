@@ -1,0 +1,14 @@
+{
+  "verbose": true,
+  "ignore": [
+    "src/*",
+    "dist/*",
+    "**/*.test.ts",
+    "**/*.spec.ts",
+    ".git",
+    "node_modules"
+  ],
+  "exec": "ts-node ./index.ts",
+  "ext": "ts",
+  "watch": ["rest"]
+}
